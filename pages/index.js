@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <div>Mensagem correta de inicio teste joao</div>
+    <div style={{backgroundColor: "#eee", color: "#202020ff"}}>Mensagem final</div>
   )
 }
 
