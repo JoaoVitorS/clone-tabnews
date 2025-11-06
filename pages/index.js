@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <div>Teste</div>
+    <div>Mensagem correta de inicio</div>
   )
 }
 
